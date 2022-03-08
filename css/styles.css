@@ -1,0 +1,9 @@
+body{
+  max-width: 380px;
+  margin:auto;
+  font-family: 'Maven Pro', sans-serif;
+}
+.site-header{
+  background: url(../img/Copie\ d\'écran\ du\ Plan\ de\ travail\ 1.png);
+  padding:30px
+}
