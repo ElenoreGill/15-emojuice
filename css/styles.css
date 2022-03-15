@@ -4,8 +4,66 @@ body{
   font-family: 'Maven Pro', sans-serif;
 }
 .site-header{
-  background: url(../img/Copie\ d\'écran\ du\ Plan\ de\ travail\ 1.png);
-  padding:30px
-  color: #57bb6b;
-  
+  background: url(../img/header-image.webp);
+  max-width: 100%;
+  padding:30px 
 }
+.container{
+  background-color: white;
+  opacity: 90%;
+}
+.kiwi-link{
+  background-color: #57bb6b;
+  
+  border: 24px;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+haha nice 
