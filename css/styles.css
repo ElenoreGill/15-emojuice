@@ -8,6 +8,7 @@ body{
   border-top: 8px solid #57bb6b;
   background: white;
   box-shadow: 0 0 50px;
+  text-align: center;
 }
 h2{
   font-family: 'Maven Pro', sans-serif;
@@ -30,4 +31,50 @@ h2{
   padding: 20px 50px;
   text-align: center;
   margin-bottom: 29px;
+}
+.button-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button{
+  background: #57bb6b;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+.contact-button{
+  background-color: white;
+  color: #57bb6b;
+}
+.fruit{
+  display: flex;
+  margin: 30px 0px;
+}
+.article{
+  background: #57bb6b;
+}
+.article-kiwi{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  padding: 30px;
+  margin: 25px;
+  color: black;
+  box-shadow: 0px 0px 10px;
+  background: white;
+}
+.article-banane{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  padding: 30px;
+  margin: 25px;
+  color: black;
+  box-shadow: 0px 0px 10px;
+  background: white;
 }
