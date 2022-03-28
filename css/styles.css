@@ -121,3 +121,33 @@ h2 {
   background: #F7A4B4;
   color: #000;
 }
+.description{
+  color: #ffffff;
+  background: #57bb6b;
+  text-align: left;
+  padding: 30px 60px;
+}
+.kiwi-info{
+  background: #57bb6b;
+  color: white;
+  text-align: left;
+  padding: 30px 60px;
+}
+.mini-articles{
+  flex-direction: row;
+  max-width: 30px;
+}
+.site-footer {
+  color: #57bb6b;
+  text-align: center;
+  padding: 30px 30px 15px;
+}
+.nav-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.site-footer p{
+  padding: 30px 40px 20px;
+  font-size: 12px;
+}
