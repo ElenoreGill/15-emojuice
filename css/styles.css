@@ -1,69 +1,33 @@
+html{
+  scroll-behavior: smooth;
+}
 body{
   max-width: 380px;
   margin:auto;
+  font-family: 'Maven Pro', sans-serif;
+  border-top: 8px solid #57bb6b;
+  background: white;
+  box-shadow: 0 0 50px;
+}
+h2{
   font-family: 'Maven Pro', sans-serif;
 }
 .site-header{
   background: url(../img/header-image.webp);
   max-width: 100%;
+  max-height: 280px;
   padding:30px 
 }
-.container{
-  background-color: white;
-  opacity: 90%;
-}
-.kiwi-link{
+.site-header ul{
+  text-decoration: none;
   background-color: #57bb6b;
-  
   border: 24px;
   border-radius: 15px;
+  justify-content: space-between;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-haha nice 
+.site-header .container{
+  background-color: #ffffffa3;
+  padding: 20px 50px;
+  text-align: center;
+  margin-bottom: 29px;
+}
